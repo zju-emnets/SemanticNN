@@ -1,0 +1,11 @@
+/test_models
+/test_models/*
+/data
+/data/*
+
+/.ipynb_checkpoints
+/__pycache__
+/models/__pycache__
+/models/__pycache__/*
+/save
+/save/*
